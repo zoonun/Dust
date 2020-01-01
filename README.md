@@ -5,5 +5,5 @@
 #Developer : Kim Tae in / Gomyo
 
 Gomyo 
-- 맵 디자인, 스토리, 인벤토리/제작 시스템 구현을 담당했습니다.
-- Responsible for Map design, Story, Inventory / Crafting System.
+- 맵 디자인, 스토리, 사운드, 인벤토리/제작 시스템 구현을 담당했습니다.
+- Responsible for Map design, Story, Sound, Inventory / Crafting System.
