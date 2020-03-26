@@ -1,6 +1,10 @@
 # Dust
 Dust는 Game Maker Studio 2를 사용해 제작한 2D TopView RPG 입니다. 주인공은 덮쳐오는 미세먼지를 피해 변종 몬스터들을 처치하고, 장비를 제작하며 생존해야 합니다.
 
+# Game Movie
+
+https://drive.google.com/open?id=1bv_WQC1rdOkzGsAsHcjs6_UBWqAP7ST8
+
 # Screen Shot
 ![dust_home](https://user-images.githubusercontent.com/40337311/72957558-5d489900-3de7-11ea-94d6-463531b1e89a.png)
 > 게임 시작
